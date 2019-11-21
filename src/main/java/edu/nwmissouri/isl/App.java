@@ -1,4 +1,4 @@
-package edu.nwmissouri.isl;
+package edu.nwmissouri.App;
 
 // imports
 import org.apache.spark.SparkConf;
